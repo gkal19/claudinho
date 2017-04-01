@@ -16,7 +16,7 @@ Check all my progress here on
 
 ### Install using Package Control
 
-Waiting for approval
+**Waiting for approval**
 
 ### Manually install
 
@@ -33,6 +33,6 @@ Waiting for approval
 
 ## **Credits**:
 >
-Inspired by [@raphamorim's](https://twitter.com/raphamundi) [Lucario Color Scheme](https://github.com/raphamorim/lucario).
+Inspired by [Raphael Amorim's](https://twitter.com/raphamundi) [Lucario Color Scheme](https://github.com/raphamorim/lucario).
 >
 MIT License ® [Gabriel Kalani](https://github.com/gkal19).
