@@ -3,10 +3,13 @@
 A Basic theme for Devs
 
 * SUPPORTED IN
-  * [Sublime Text](#sublime-text)
-  * [Atom](#atom)
-  * [Brackets](#brackets)
-  * [Terminal](#terminal)
+  * [x] [Sublime Text](#sublime-text)
+  * [] 	[Atom](#atom)
+  * [] 	[Brackets](#brackets)
+  * [] 	[Terminal](#terminal)
+
+Check all my progress there
+[Claudinho's Theme](https://github.com/gkal19/claudinho/projects/1)
 
 ## Sublime Text
 ![Claudinho's Example in Sublime](https://raw.githubusercontent.com/gkal19/claudinho/master/imgs/sublime.png)
@@ -29,7 +32,6 @@ Waiting for approval
 
 
 ## **Credits**:
-__________________
 >
 Inspired by [@raphamorim's](https://twitter.com/raphamundi) [Lucario Color Scheme](https://github.com/raphamorim/lucario).
 >
