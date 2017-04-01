@@ -8,7 +8,7 @@ A Basic theme for Devs
   * [Brackets](#brackets)
   * [Terminal](#terminal)
 
-Check all my progress there
+Check all my progress here on
 [Claudinho's Theme](https://github.com/gkal19/claudinho/projects/1)
 
 ## Sublime Text
