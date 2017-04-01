@@ -23,7 +23,6 @@ Waiting for approval
 4.	Now you must select Claudinho's theme in **Preferences -> Color Scheme -> Claudinho**
 5. It's Done!
 
-## Sublime Text
 ## Atom
 ## Brackets
 ## Terminal
