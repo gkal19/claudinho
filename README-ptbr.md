@@ -32,6 +32,17 @@ Verifique todo meu progresso aqui
 ## Brackets
 ## Terminal
 
+## Paleta de Cores
+
+Paleta      | Hex       | RGB           |
+---          | ---       | ---           |
+Background   | `#1A3042` | `26 48 66`    |
+Selection    | `#0B79D9` | `11 121 217`    |
+Foreground   | `#FFFF00FC` | `255 255 0` |
+Comment      | `#000000` | `0 0 0`  |
+String       | `#FFEA00` | `255 234 0` |
+
+
 
 ## **Créditos**:
 >
