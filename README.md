@@ -2,6 +2,8 @@
 
 A Basic theme for Devs
 
+[Descrição em Português](https://github.com/gkal19/claudinho/blob/master/README-ptbr.md)
+
 * SUPPORTED IN
   * [x] [Sublime Text](#sublime-text)
   * [Atom](#atom)
