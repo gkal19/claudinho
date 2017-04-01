@@ -28,7 +28,8 @@ Waiting for approval
 ## Terminal
 
 
-**Credits**:
+## **Credits**:
+__________________
 >
 Inspired by [@raphamorim's](https://twitter.com/raphamundi) [Lucario Color Scheme](https://github.com/raphamorim/lucario).
 >
