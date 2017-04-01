@@ -4,9 +4,9 @@ A Basic theme for Devs
 
 * SUPPORTED IN
   * [x] [Sublime Text](#sublime-text)
-  * [] 	[Atom](#atom)
-  * [] 	[Brackets](#brackets)
-  * [] 	[Terminal](#terminal)
+  * [Atom](#atom)
+  * [Brackets](#brackets)
+  * [Terminal](#terminal)
 
 Check all my progress there
 [Claudinho's Theme](https://github.com/gkal19/claudinho/projects/1)
