@@ -7,6 +7,7 @@ Uma tema básico para desenvolvedores
 * SUPORTADO NO
   * [x] [Sublime Text](#sublime-text)
   * [Atom](#atom)
+  * [Visual Studio Code](#visual-studio-code)
   * [Brackets](#brackets)
   * [Terminal](#terminal)
 
@@ -29,6 +30,7 @@ Verifique todo meu progresso aqui
 5. 	Está feito!
 
 ## Atom
+## Visual Studio Code
 ## Brackets
 ## Terminal
 
