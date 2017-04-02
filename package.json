@@ -2,9 +2,9 @@
   "name": "claudinho",
   "version": "1.0.3",
   "description": "A Basic theme for Devs",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "test": "npm run test"
+    "test": ""
   },
   "repository": {
     "type": "git",
