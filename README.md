@@ -1,6 +1,6 @@
-# Claudinho
-
 [![Build Status](https://travis-ci.org/gkal19/claudinho.svg?branch=master)](https://travis-ci.org/gkal19/claudinho)
+
+# Claudinho
 
 A Basic theme for Devs
 
