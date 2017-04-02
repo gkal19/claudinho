@@ -46,6 +46,7 @@ Foreground   | `#FFFF00FC` | `255 255 0` |
 Comment      | `#000000` | `0 0 0`  |
 String       | `#FFEA00` | `255 234 0` |
 
+## [Contributing](https://github.com/gkal19/claudinho/blob/master/contributing.md)
 
 ## **Credits**:
 >

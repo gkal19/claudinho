@@ -47,6 +47,7 @@ Comment      | `#000000` | `0 0 0`  |
 String       | `#FFEA00` | `255 234 0` |
 
 
+## [Contribuindo](https://github.com/gkal19/claudinho/blob/master/contributing.md)
 
 ## **Créditos**:
 >
