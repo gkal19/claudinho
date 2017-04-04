@@ -2,16 +2,14 @@
     "schema_version": "3.0.0",
     "packages": [
         {
-            "name": "claudinho",
+            "name": "Claudinho",
             "description": "A basic theme for devs.",
-            "author": "Gabriel 'gkal19' Kalani",
-            "homepage": "http://gkal19.github.io/claudinho/",
-            "readme": "https://raw.github.com/gkal19/claudinho/master/README.md",
-            "labels": ["color scheme"],
-            "releases" : [
+            "author": "Gabriel Kalani",
+            "details": "https://github.com/gkal19/claudinho",
+            "releases": [
                 {
                     "sublime_text": "*",
-
+                    "platforms": ["windows"],
                     "details": "https://github.com/gkal19/claudinho/tags"
                 }
             ]
