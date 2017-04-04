@@ -1,0 +1,20 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "claudinho",
+            "description": "A basic theme for devs.",
+            "author": "Gabriel 'gkal19' Kalani",
+            "homepage": "http://gkal19.github.io/claudinho/",
+            "readme": "https://raw.github.com/gkal19/claudinho/master/README.md",
+            "labels": ["color scheme"],
+            "releases" : [
+                {
+                    "sublime_text": "*",
+
+                    "details": "https://github.com/gkal19/claudinho/tags"
+                }
+            ]
+        }
+    ]
+}
