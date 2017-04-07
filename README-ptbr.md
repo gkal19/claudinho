@@ -40,11 +40,11 @@ Verifique todo meu progresso aqui
 
 Paleta      | Hex       | RGB           |
 ---          | ---       | ---           |
-Background   | `#1A3042` | `26 48 66`    |
-Selection    | `#0B79D9` | `11 121 217`    |
-Foreground   | `#FFFF00FC` | `255 255 0` |
-Comment      | `#000000` | `0 0 0`  |
-String       | `#FFEA00` | `255 234 0` |
+Background   | `#14191F` | `20 25 31`    |
+Selection    | `#094399AD` | `9 67 153`    |
+Foreground   | `#F2F2F2FA` | `242 242 242` |
+Comment      | `#474747` | `71 71 71`  |
+String       | `#FFEE00` | `255 238 0` |
 
 
 ## [Contribuindo](https://github.com/gkal19/claudinho/blob/master/contributing.md)
