@@ -40,11 +40,11 @@ Check all my progress here on
 
 Palette      | Hex       | RGB           |
 ---          | ---       | ---           |
-Background   | `#14191F` | `20 25 31`    |
-Selection    | `#094399AD` | `9 67 153`    |
+Background   | `#282D3C` | `40 45 60`    |
+Selection    | `#44475A` | `68 71 90`    |
 Foreground   | `#F2F2F2FA` | `242 242 242` |
-Comment      | `#474747` | `71 71 71`  |
-String       | `#FFEE00` | `255 238 0` |
+Comment      | `#969896` | `150 152 150`  |
+String       | `#E6DB74` | `230 219 116` |
 
 ## [Contributing](https://github.com/gkal19/claudinho/blob/master/contributing.md)
 
