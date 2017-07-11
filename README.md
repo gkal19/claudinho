@@ -1,8 +1,6 @@
-[![Build Status](https://travis-ci.org/gkal19/claudinho.svg?branch=master)](https://travis-ci.org/gkal19/claudinho)
-
 # Claudinho
 
-A Basic theme for Devs
+> A Basic theme for Devs
 
 * SUPPORTED IN
   * [x] [Sublime Text](#sublime-text)
@@ -19,7 +17,11 @@ Check all my progress here on
 
 ### Install using Package Control
 
-**Waiting for approval**
+1. Install via Package Control: Install Package. 
+2. The theme is named as "Claudinho Color Scheme" or "Claudinho" in the packages list. 
+3. Select "Claudinho Color Scheme" or "Claudinho" by browsing Preferences -> Color Scheme -> Claudinho.
+
+[Claudinho](https://packagecontrol.io/packages/Claudinho) in Package Control.
 
 ### Manually install
 
