@@ -13,7 +13,7 @@ Check all my progress here on
 [Claudinho's Theme](https://github.com/gkal19/claudinho/projects/1)
 
 ## Sublime Text
-![Claudinho's Example in Sublime](https://raw.githubusercontent.com/gkal19/claudinho/master/imgs/sublime.png)
+![Claudinho's Example in Sublime](http://i.imgur.com/9mXgchr.png)
 
 ### Install using Package Control
 
